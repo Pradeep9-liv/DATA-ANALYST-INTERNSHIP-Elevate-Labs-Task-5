@@ -1,6 +1,6 @@
 # DATA-ANALYST-INTERNSHIP-Elevate-Labs-Task-5
 
-# Student Performance Dataset – Data Cleaning & Feature Engineering
+# Student Performance Dataset - Data Cleaning & Feature Engineering
 
 ## Data Dictionary
 
